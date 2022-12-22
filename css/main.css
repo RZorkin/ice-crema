@@ -240,7 +240,7 @@ img {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url(../images/about/cow.png);
+  background-image: url(../images/cow.png);
 }
 .advantages__weight {
   position: relative;
@@ -254,7 +254,7 @@ img {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url(../images/about/weight.png);
+  background-image: url(../images/weight.png);
 }
 .advantages__ice-crema {
   position: relative;
@@ -268,7 +268,7 @@ img {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-image: url(../images/about/ice-crema.png);
+  background-image: url(../images/ice-crema.png);
 }
 .advantages__index {
   margin: 16px 0;
